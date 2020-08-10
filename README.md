@@ -1,7 +1,7 @@
 # omdbapi-test
 Tested using Rest Assured library in Java
 
-http://www.omdbapi.com/ adresindeki public api'yi kullanarak aşağıdaki case'i oluşturdum.
+http://www.omdbapi.com/ adresindeki public api'yi kullanarak aşağıdaki senaryoyu oluşturdum.
 
 Senaryo
 
